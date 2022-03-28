@@ -24,7 +24,7 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 ### Links
 
 - Solution URL: https://github.com/navarcus/frontend-mentor-challanges
-- Live Site URL: https://navarcus.github.io/frontend-mentor-qr-code-challange/
+- Live Site URL: https://berkepalamutcu.github.io/frontend-mentor-qr-code-challange/
 
 ### Built with
 
